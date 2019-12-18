@@ -18,28 +18,28 @@
   
 * Programs to run below patterns using iterations and recursions are in file iterations.c & recursion.c :
 
-<br/>
-1<br/> 
-12<br/>
-123<br/>
-1234<br/>
+1\
+12\
+123\
+1234\
 12345<br/>
-<br/>
-    1<br/>
-   121<br/>
-  12321<br/>
- 1234321<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;12321<br/>
+&nbsp;&nbsp;1234321<br/>
 123454321<br/>
 <br/>
-    1<br/>
-   121<br/>
-  12321<br/>
- 1234321<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;12321<br/>
+&nbsp;&nbsp;1234321<br/>
 123454321<br/>
- 1234321<br/>
-  12321<br/>
-   121<br/>
-    1<br/>
+&nbsp;&nbsp;1234321<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;12321<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1<br/>
     <br/>
 1<br/>
 1212<br/>
